@@ -20,5 +20,11 @@
 - 💬 Ask me about **Python, C++, SQL, and AI**
 
 - 📫 Contact: **maiphananhtung@gmail.com**
+### Connect with me:
 
-- ⚡ Fun fact: **Chill coder who loves building practical AI solutions 🚀**
+<a href="https://www.facebook.com/mai.phan.anh.tung/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35"/>
+</a>
+<a href="https://www.instagram.com/mt_19.01/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="35"/>
+</a>
