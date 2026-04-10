@@ -49,9 +49,6 @@ Driven to bridge theory and practice by applying <b>advanced models</b> to real-
 ### 🛠 Languages and Tools:
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   </a>
@@ -89,12 +86,3 @@ Driven to bridge theory and practice by applying <b>advanced models</b> to real-
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maitungdeptraiiiii&show_icons=true"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maitungdeptraiiiii&layout=compact"/>
-</p>
