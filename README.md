@@ -14,15 +14,12 @@
 
 - 🤝 Looking for help with **advanced AI and real-world applications**
 
-- 👨‍💻 Projects: 
-  https://github.com/maitungdeptraiiiii
+- 👨‍💻 Projects: https://github.com/maitungdeptraiiiii
 
-- 📝 Sharing knowledge at:  
-  https://www.facebook.com/mai.phan.anh.tung
+- 📝 Sharing knowledge at: https://www.facebook.com/mai.phan.anh.tung
 
 - 💬 Ask me about **Python, C++, SQL, and AI**
 
-- 📫 Contact:  
-  **maiphananhtung@gmail.com**
+- 📫 Contact: **maiphananhtung@gmail.com**
 
 - ⚡ Fun fact: **Chill coder who loves building practical AI solutions 🚀**
