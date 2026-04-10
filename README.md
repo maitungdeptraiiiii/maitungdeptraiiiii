@@ -29,7 +29,6 @@ Driven to bridge theory and practice by applying <b>advanced models</b> to real-
 - 📝 Sharing knowledge: https://www.facebook.com/mai.phan.anh.tung
 - 💬 Ask me about **Python, C++, SQL, and AI**
 - 📫 Contact: **maiphananhtung@gmail.com**
-- ⚡ Fun fact: **Chill guy who loves coding and building AI 🚀**
 
 ---
 
