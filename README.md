@@ -35,9 +35,6 @@ Driven to bridge theory and practice by applying **advanced models** to real-wor
   <a href="https://www.facebook.com/mai.phan.anh.tung/" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="36" />
   </a>
-<a href="mailto:maiphananhtung@gmail.com">
-<img src="https://cdn.simpleicons.org/googlemail/EA4335" height="36" />
-</a>
 </p>
 
 ---
