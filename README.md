@@ -36,8 +36,8 @@ Driven to bridge theory and practice by applying **advanced models** to real-wor
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="36" />
   </a>
 <a href="mailto:maiphananhtung@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="36" />
-  </a>
+<img src="https://cdn.simpleicons.org/googlemail/EA4335" height="36" />
+</a>
 </p>
 
 ---
