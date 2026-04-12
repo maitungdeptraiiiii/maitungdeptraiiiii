@@ -30,14 +30,13 @@ Driven to bridge theory and practice by applying **advanced models** to real-wor
 
 <p align="left">
   <a href="https://www.facebook.com/mai.phan.anh.tung/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="36" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="36" />
   </a>
   <a href="https://www.instagram.com/mt_19.01/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="36" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="36" />
   </a>
   <a href="mailto:maiphananhtung@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="36" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" />  </a>
 </p>
 
 ---
